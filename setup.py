@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-from distutils.core import Command, setup
+from setuptools import Command, setup
 import unittest
 
 UNITTESTS = [
